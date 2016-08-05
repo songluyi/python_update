@@ -26,6 +26,7 @@
 还有因为觉得文科还可以带给我更广阔的视野，高中时候，除了晚自习我泡在学校新开的一个小的
 
 图书馆以外，下午就是参加NOIP 如图啦
+
 <img src="http://appwk.baidu.com/naapi/doc/view?ih=810&o=jpg_6&iw=1080&ix=0&iy=0&aimw=1080&rn=1&doc_id=4321147f1711cc7931b71638&pn=1&sign=498e364a55dc6a90dd106712676a48c2&type=1&app_ver=2.9.8.2&ua=bd_800_800_IncredibleS_2.9.8.2_2.3.7&bid=1&app_ua=IncredibleS&uid=&cuid=&fr=3&Bdi_bear=WIFI&from=3_10000&bduss=&pid=1&screen=800_800&sys_ver=2.3.7" width="400" height="400">
 
 高三每周就22个小时放假，现在回想起来当时真没啥意义。回去开始日站，你懂得
