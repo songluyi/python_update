@@ -30,8 +30,8 @@ def get_path():
         print(item)
     return FileList
 IMG_LIST = get_path()
-WIDTH = 80
-HEIGHT = 80
+WIDTH = 60
+HEIGHT = 60
 #我尝试了一下这个破玩儿如果太长，那么对于复杂的显示是很模糊的，看不清，你可以自己调试。
 ascii_char = list("MMHG$OC?7>!:-;.")
 
