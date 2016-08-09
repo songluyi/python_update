@@ -15,3 +15,5 @@ text_2=b'BZh91AY&SY\x94$|\x0e\x00\x00\x00\x81\x00\x03$ \x00!\x9ah3M\x13<]\xc9\x1
 hack_text_1=bz2.decompress(text_1)
 hack_text_2=bz2.decompress(text_2)
 print(hack_text_1,hack_text_2)
+lol=bz2.compress(b'572896914')
+print(lol)

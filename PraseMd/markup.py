@@ -2,9 +2,9 @@
 # encoding: utf-8
 
 import sys, re
-from handlers import *
-from util import *
-from rules import *
+from PraseMd.handlers import *
+from PraseMd.util import *
+from PraseMd.rules import *
 
 class Parser:
     """
