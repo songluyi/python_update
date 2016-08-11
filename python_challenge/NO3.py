@@ -16,7 +16,6 @@ import string
 #     s=filter(lambda x:x in string.ascii_letters,f)
 #     print(s)
 #     return s
-#
 # a=my_solution(f)
 # print(''.join(list(a)))
 occ = {}

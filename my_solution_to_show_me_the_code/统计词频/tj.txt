@@ -1,0 +1,8 @@
+Hi mike,
+
+The CVSS is a tool that InfoSec professionals depend on heavily. But what if using it for prioritizing vulns ends up having disastrous consequences?
+
+In this on demand webinar Michael Roytman, Chief Data Scientist at Kenna, explains what IT security professionals miss by placing too much trust in CVSS when it comes to prioritization efforts. He also explains what information should absolutely be taken into consideration in order to focus on vulnerabilities posing the greatest risk. Feel free to enjoy this session at your convenience!
+
+TITLE: CVSS Under Fire: How to Solve The Prioritization Problem
+AVAILABLE NOW
