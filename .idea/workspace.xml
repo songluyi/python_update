@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d2dd97e-866c-4fcb-af6e-88b75b8b731e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/make_little_money/crawl_web.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_site/hello.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_solution_to_show_me_the_code/生成随机验证码/make_check_code.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_code_count.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_site/new_site.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_site/server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_site/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_solution_to_show_me_the_code/统计词频/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_solution_to_show_me_the_code/test转json/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_solution_to_show_me_the_code/hashItforfun/用户密码加密.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_solution_to_show_me_the_code/统计词频/accumalate_counts.py" afterPath="$PROJECT_DIR$/my_solution_to_show_me_the_code/统计词频/accumalate_counts.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/make_little_money/crawl_web.py" afterPath="$PROJECT_DIR$/make_little_money/crawl_web.py" />
     </list>
     <ignored path="python_update.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="crawl_web.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="crawl_web.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/make_little_money/crawl_web.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="641" max-vertical-offset="1235">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.7550201" vertical-offset="737" max-vertical-offset="1235">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="e#287#302#0" expanded="true" />
               </folding>
@@ -98,10 +86,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60278744" vertical-offset="378" max-vertical-offset="665">
+            <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="665">
               <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
               <folding>
                 <element signature="e#342#357#0" expanded="true" />
@@ -167,8 +155,8 @@
         <option value="$PROJECT_DIR$/my_site/test.py" />
         <option value="$PROJECT_DIR$/my_site/server.py" />
         <option value="$PROJECT_DIR$/my_site/hello.py" />
-        <option value="$PROJECT_DIR$/make_little_money/crawl_web.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/make_little_money/crawl_web.py" />
       </list>
     </option>
   </component>
@@ -626,7 +614,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4827044" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1509434" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1030,22 +1018,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/make_little_money/crawl_web.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="641" max-vertical-offset="1235">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="665">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
           <folding>
-            <element signature="e#287#302#0" expanded="true" />
+            <element signature="e#342#357#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/make_little_money/crawl_web.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60278744" vertical-offset="378" max-vertical-offset="665">
-          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        <state vertical-scroll-proportion="-0.7550201" vertical-offset="737" max-vertical-offset="1235">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#342#357#0" expanded="true" />
+            <element signature="e#287#302#0" expanded="true" />
           </folding>
         </state>
       </provider>

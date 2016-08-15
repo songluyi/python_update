@@ -22,13 +22,13 @@ headers = {'Host':'www.kekenet.com',
 def make_url_list(i):
     com_single_url='http://www.kekenet.com/read/news/List_%s.shtml'%i
     return com_single_url
-def get_link_page(base_url):
+def get_link_page(base_url):#获得list页面每一个新闻的url
     wb_data=requests.get(base_url,headers=headers)
     html =str(wb_data.content,'utf-8',errors='ignore')
     html = etree.HTML(html)
     result = html.xpath('//*[@id="menu-list"]/li/h2/a[2]/@href')
     return result
-def get_content(single_url):
+def get_content(single_url):#获取新闻页面的标题和内容
     # headers_diff={'Host':'www.kekenet.com',
     #                'Origin':'http://www.kekenet.com',
     #                'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36',
@@ -46,11 +46,11 @@ def get_content(single_url):
     print(file_name)
     with open(file_name,'w') as f:
         f.write(result)
-url_list=list(map(make_url_list,[i for i in range(1200,1293)]))
+url_list=list(map(make_url_list,[i for i in range(1200,1293)]))#先测试几十条，客户要求1200条
 every_url_list=list(map(get_link_page,url_list))
 new_url_list=[]
 for i in every_url_list:
-    new_url_list.extend(i)
+    new_url_list.extend(i)#这个写的比较蠢，目前先这么写，把链接列表化一下
 for j in new_url_list:
     print(j)
     get_content(j)
