@@ -2,7 +2,7 @@
 # 2016/8/16 14:32
 """
 -------------------------------------------------------------------------------
-Function:
+Function:   自动将excel 数据通过selenium 模拟的方式填入表单
 Version:    1.0
 Author:     SLY
 Contact:    slysly759@gmail.com 
