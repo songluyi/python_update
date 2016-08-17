@@ -1,0 +1,18 @@
+Oracle has suffered another black eye over security flaws in its widely used Java software, as the US tech company on Monday settled a regulatory charge that it had deceived computer users about the safety of the software.
+甲骨文(Oracle)因旗下使用者众多的Java软件存在的安全漏洞而再次受挫。周一，这家美国科技企业与监管机构就后者提出的一项指控达成和解。这项指控称，甲骨文在Java软件的安全性问题上欺骗了电脑用户。
+Java was singled out by Larry Ellison, the company’s chairman, as the key asset in his 2010 purchase of server maker Sun Microsystems. The software, which makes possible many features of web browsing, has since become an important weapon in Oracle’s arsenal against other tech companies. It prompted a partially successful lawsuit against Google’s Android mobile operating system that critics warn could have far-reaching effects in the tech world.
+2010年，在收购服务器制造商太阳微系统(Sun Microsystems)时，甲骨文董事长拉里埃利森(Larry Ellison)曾把Java择出来作为一项关键资产。自那以来，这一支撑众多网页浏览功能的软件已成为甲骨文对抗其他科技企业的重要武器之一。甲骨文据此发起了针对谷歌(Google) Android移动操作系统的法律诉讼，并在一定程度上打赢了这场官司。批评人士警告称，这场官司或对科技界产生深远影响。
+But security weaknesses in Java, dating from long before Oracle’s acquisition, have also made the software a problem for the company. In the worst incident, a number of leading tech companies, including Apple and Facebook, revealed in 2013 that attackers had used flaws in the software to penetrate their systems.
+不过，Java存在的安全漏洞也令该软件成为甲骨文的一大麻烦。这些安全漏洞可追溯至甲骨文收购太阳微系统之前很久。2013年，包括苹果(Apple)和Facebook在内的多家顶尖科技企业披露，攻击者利用Java存在的漏洞攻破了它们的系统，这是Java安全漏洞导致的最严重的事件。
+On Monday, the Federal Trade Commission accused Oracle of deceiving consumers over the degree to which updating the Java software to newer, safer versions protects their computers from attack. The complaint relates to the Java Standard Edition, which is installed on more than 850m PCs, the regulator said.
+周一，美国联邦贸易委员会（Federal Trade Commission，简称FTC）指控甲骨文未如实告诉用户将Java软件升级至更新、更安全版本能在多大程度上保护用户电脑免受攻击。该监管机构表示，这一指控涉及的是Java标准版(Java Standard Edition)，它安装在逾8.5亿台个人电脑上。
+According to the complaint, Oracle did not warn computer users that updating Java does not automatically remove older — and less secure — versions of the software, with only the most recent version being deleted. That left millions of users exposed to attacks, including having the usernames and passwords of their financial accounts stolen, the regulator said.
+该指控称，甲骨文未警告电脑用户升级Java并不自动移除更老（从而安全性更差）版本的Java，移除的只是最近版本的Java。该监管机构表示，这导致数百万用户暴露在攻击之下，他们财务账号的用户名和密码可能会遭到窃取。
+The problem continued even though Oracle “was aware of the insufficiency of its update process” in 2011, the FTC said.
+FTC表示，尽管甲骨文在2011年“已知晓其升级流程存在的不足”，但这个问题依然存在。
+“When a company’s software is on hundreds of millions of computers, it is vital that its statements are true and its security updates actually provide security for the software,” Jessica Rich, director of the FTC’s consumer protection bureau, said.
+FTC消费者保护局局长杰茜卡里奇(Jessica Rich)表示：“当一家公司的软件安装在数亿台电脑上时，非常重要的一点是，该公司的声明要真实、其安全更新要为该软件提供切实的安全保障。”
+Under a consent agreement announced on Monday, Oracle has been ordered to notify consumers who are updating Java if they have older versions of the software on their machines and give them option to uninstall it.
+按照周一公布的一份协议，甲骨文被要求提醒正在升级Java的用户他们电脑上是否装有更老版本的Java，并向他们提供卸载该版本的选项。
+Oracle declined to comment on the charge.
+甲骨文拒绝就该指控置评。

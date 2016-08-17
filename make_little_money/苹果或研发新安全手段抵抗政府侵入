@@ -1,0 +1,50 @@
+WASHINGTON — Apple engineers have begun developing new security measures that would make it impossible for the government to break into a locked iPhone using methods similar to those now at the center of a court fight in California, according to people close to the company and security experts.
+华盛顿——据公司知情人士和安全专家称，苹果公司(Apple)的工程师已经开始研发新的安全手段，令政府不可能强行进入一部加锁的iPhone，新手段使用的方法，和目前卷入加州一场诉讼中的方法类似。
+If Apple succeeds in upgrading its security — and experts say it almost surely will — the company will create a significant technical challenge for law enforcement agencies, even if the Obama administration wins its fight over access to data stored on an iPhone used by one of the killers in last year’s San Bernardino, Calif., rampage. If the Federal Bureau of Investigation wanted to get into a phone in the future, it would need a new way to do so. That would most likely prompt a new cycle of court fights and, yet again, more technical fixes by Apple.
+为了进入去年制造加州圣贝纳迪诺惨案的一名凶手所使用过的iPhone，获取存于其中的数据，奥巴马政府正和苹果展开斗争，而一旦成功进行此次安全升级——专家称几乎可以肯定苹果公司能做到——苹果将给执法部门制造一个极大的技术难题，即便政府赢得诉讼胜利也无法改变这一点。今后联邦调查局(FBI)若再要进入一部iPhone，就必须另想办法。这很有可能将引发又一轮的法庭诉讼，进而令苹果再做出更多的技术修补。
+The only way out of this scenario, experts say, is for Congress to get involved. Federal wiretapping laws require traditional phone carriers to make their data accessible to law enforcement agencies. But tech companies like Apple and Google are not covered, and they have strongly resisted legislation that would place similar requirements on them.
+专家称，这样的局面下，唯一的出路是让国会参与进来。联邦窃听法要求传统手机运营商向执法部门提供其持有的数据。但苹果和谷歌(Google)这样的科技公司并不在规定范围内，它们此前也曾强烈反对通过立法对它们做出同样的要求。
+“We are in for an arms race unless and until Congress decides to clarify who has what obligations in situations like this,” said Benjamin Wittes, a senior fellow at the Brookings Institution.
+“我们这是在展开一场军备竞赛，唯有等国会出来明确，像这样的情况下，各方应该尽何种义务，”布鲁金斯学会(Brookings Institution)高级研究员本杰明·维茨(Benjamin Wittes)说。
+Companies have always searched for software bugs and patched holes to keep their code secure from hackers. But since the revelations of government surveillance made by Edward J. Snowden, companies have been retooling their products to protect against government intrusion.
+企业从来都会搜寻软件臭虫(bug)，修补漏洞，以让自己的代码免遭黑客侵扰。但自爱德华·J·斯诺登(Edward J. Snowden)披露政府的监控措施以来，各公司便开始更新其产品，防御政府的侵入。
+For Apple, security is also a global marketing strategy. New security measures would not only help the company in its fight with the government, but also reassure investors and customers.
+对苹果来说，安全还是一项全球市场战略。新的安全手段不但能帮助公司与政府展开对抗，还能增强投资人和顾客的信心。
+“For all of those people who want to have a voice but they’re afraid, we are standing up, and we are standing up for our customers because protecting them we view as our job,” Apple’s chief executive, Timothy D. Cook, said on Wednesday in an interview with ABC News.
+“为了那些出于恐惧不敢发声的人，我们决定挺身上前，我们要为用户而战，因为保护他们是我们的职责，”苹果首席执行官蒂莫西·D·库克(Timothy D. Cook)周三在ABC新闻频道(ABC News)接受采访时说。
+The company first raised the prospect of a security update last week in a phone call with reporters, who asked why the company would allow firmware — the software at the heart of the iPhone — to be modified without requiring a user password.
+安全升级的打算是上周在一次记者电话会议上首次提出的，当时记者问为什么公司可以在不需要用户密码的情况下改动固件——iPhone的核心软件。
+One senior executive, speaking on the condition of anonymity, replied that it was safe to bet that security would continue to improve. Separately, a person close to the company, who also spoke on the condition of anonymity, confirmed this week that Apple engineers had begun work on a solution even before the San Bernardino attack. A company spokeswoman declined to comment on what she called rumors and speculation.
+一位要求匿名的高管答称，可以十分肯定地说，安全将会不断得到改进。一位同样要求匿名的公司知情人士本周在另一场合表示，苹果工程师的确在圣贝纳迪诺袭击之前就已经着手于一个解决方案。苹果公司一名女发言人称这些都是传闻和猜测，并拒绝置评。
+Independent experts say they have held informal conversations with Apple engineers over the last week about the vulnerability. Exactly how Apple will address the issue is unclear. Security experts who have been studying Apple’s phone security say it is technically possible to fix.
+一些独立专家称，上周他们和苹果工程师就安全防御弱点进行了非正式的讨论。苹果具体会如何处理这一问题尚不得而知。研究苹果手机安全的安全专家称，技术上讲这些弱点是可以修补的。
+“There are probably 50 different ideas we have all sent to Apple,” said Jonathan Zdziarski, a security researcher.
+“我们大概总共向苹果提了50个不同的想法，”安全研究员乔纳森·兹阿尔斯基(Jonathan Zdziarski)说。
+Apple built its recent operating systems to protect customer information. As Mr. Cook wrote in a recent letter to customers, “We have even put that data out of our own reach, because we believe the contents of your iPhone are none of our business.”
+苹果从保护用户信息的角度开发了近年的操作系统。库克近日在一封致顾客的公开信中说，“我们甚至把数据放在了我们自己都无法取得的地方，因为我们相信，你们放在iPhone中的内容不关我们的事。”
+But there is a catch. Each iPhone has a built-in troubleshooting system that lets the company update the system software without the need for a user to enter a passcode. Apple designed that feature to make it easier to repair malfunctioning phones.
+但这里面有一个问题。每部iPhone都有一个内置的故障排除系统，让公司可以在无需用户输入口令的情况下更新系统软件。苹果设计这个特性的目的是方便维修运转失常的手机。
+In the San Bernardino case, the F.B.I. wants to exploit that troubleshooting system by forcing Apple to write and install new software that strips away several security features, making it much easier for the government to hack into the phone. The phone in that case is an old model, but experts and former Apple employees say that a similar approach could also be used to alter software on newer phones. That is the vulnerability Apple is working to fix.
+在圣贝纳迪诺案中，FBI希望利用这个故障排除系统，为此他们强迫苹果编写和安装新的软件，把多个安全特性去掉，大大降低政府侵入该手机的难度。本案涉及的是一部老款iPhone，但专家和前苹果雇员说，类似手法可以用于改动更新的型号。这就是苹果打算修补的薄弱环节。
+Apple regularly publishes security updates and gives credit to researchers who hunt for bugs in the company’s software. “Usually, bug reports come in an email saying, ‘Dear Apple Security, we’ve discovered a flaw in your product,’ ” said Chris Soghoian, a technology analyst with the American Civil Liberties Union. “This bug report has come in the form of a court order.”
+ 苹果定期发布安全升级，并在公司的软件中明确那些找到臭虫的研究人员的贡献。“通常来说，臭虫报告就是一封邮件，说‘亲爱的苹果安全部门，我们在你们的产品里发现了一个缺陷，’”美国公民自由联盟(American Civil Liberties Union)技术分析师克里斯托弗·索戈延(Christopher Soghoian)说。“这次的臭虫报告是一纸法庭判令。”
+The court order to which Mr. Soghoian referred was issued last week by a federal judge magistrate, and tells Apple to write and install the code sought by the F.B.I. Apple has promised to challenge that order. Its lawyers have until Friday to file its opposition in court.
+索戈延提到的判令是上周由一名联邦治安法官发出的，命令要求苹果编写和安装FBI所需的代码。苹果已经承诺要挑战该命令。公司律师需在周五前向法院递交异议书。
+In many ways, Apple’s response continues a trend that has persisted in Silicon Valley since Mr. Snowden’s revelations. Yahoo, for instance, left its email service unencrypted for years. After Mr. Snowden revealed the National Security Agency surveillance, the company quickly announced plans to encrypt email. Google similarly moved to fix a vulnerability that the government was using to hack into company data centers.
+从许多方面看，苹果的反应延续了硅谷自斯诺登披露以来的一种趋势。比如，雅虎(Yahoo)的邮件服务多年来一直是不加密的。在斯诺登披露国家安全局(National Security Agency)的监控后，该公司很快宣布了对电子邮件进行加密的计划。谷歌也同样采取行动，修补了一个政府用来潜入公司数据中心的安全薄弱环节。
+Apple’s showdown with the Justice Department is different in one important way. Now that the government has tried to force Apple to hack its own code, security officials say, the company must view itself as the vulnerability.
+但苹果与司法部(Justice Department)的对决有一个非常重要的不同之处。安全官员说，现在政府要强迫苹果去破解自己的代码，公司必须把自己当做一个薄弱环节来看待。
+“This is the first time that Apple has been included in their own threat model,” Mr. Zdziarski said. “I don’t think Apple ever considered becoming a compelled arm of the government.”
+“这是苹果第一次被纳入到他们自己的威胁模型中，”兹阿尔斯基说。“我认为苹果肯定不希望被逼着成为政府的一个附属机构。”
+The F.B.I. director, James B. Comey Jr., signaled this week that he expected Apple to change its security, saying that the phone-cracking tool the government sought in the San Bernardino case was “increasingly obsolete.” He said that supported the government’s argument that it was not seeking a skeleton key to hack into all iPhones.
+FBI局长小詹姆斯·B·科米(James B. Comey Jr.)本周表示，他希望苹果改变其安全策略，并称政府在圣贝纳迪诺案中寻求获取的手机破解工具已经“越来越过时了”。他的言论支持了政府的主张，即它并不打算得到一把能破解所有iPhone的万能钥匙。
+Apple, though, says the case could set a precedent for forcing company engineers to write code to help the government break into any iPhone. “The U.S. government has asked us for something we simply do not have, and something we consider too dangerous to create,” Mr. Cook said in his letter.
+不过苹果认为该案会创下强迫公司工程师编写代码，帮助政府侵入任一iPhone的先例。“美国政府要求我们拿出的东西，是我们没有的，也是我们认为不该去创造的，因为它们太过危险，”库克在信中说。
+The heated back-and-forth between the government and technology companies is, at least in part, a function of the Obama administration’s strategy. The White House has said it will not ask Congress to pass a law requiring tech companies to give the F.B.I. a way to gain access to customer data. That has left the Justice Department to fight for access one phone at a time, in court cases that often go unnoticed.
+这场政府和科技公司的激烈交锋，至少在一定程度上是奥巴马政府的策略造成的。白宫此前表示不会请求国会通过法律，要求科技公司向FBI提供获取用户数据的方式。这就让司法部通过一些往往无人关注的诉讼，去逐个争取进入这些手机的办法。
+While it is generally accepted that Silicon Valley’s tech giants can outgun the government in a technical fight, the companies do face one important limitation. Security features often come at the expense of making products slower or clunkier.
+人们普遍认为，硅谷科技巨头在一场技术争议中可以压制政府，但企业也面临着一个重要的限制。追求安全特性，往往要付出产品变得更慢、更迟钝的代价。
+Apple’s brand is built around creating products that are sleek and intuitive. A security solution that defeats the F.B.I. is unworkable if it frustrates consumers. One of the impediments to encrypting all the data in Apple’s iCloud servers, for instance, has been finding a way to ensure that customers can easily retrieve and recover photos and other information stored there.
+苹果通过创造流畅且顺应直觉的产品来建立其品牌形象。如果一个能击败FBI的安全解决方案会令消费者感到困扰，那就是不可取的。例如，将苹果iCloud服务器上的所有数据加密就会造成困难，其中一点是要找到一种办法，让用户可以方便地找回密码，恢复存储于其中的照片和其他信息。
+“Telling a member of the public that they’re going to lose all the family photos they’ve ever taken because they forgot their password is a really tough sell,” Mr. Soghoian said. “A company wants to sell products to the public.”
+“要对一个公众人士说，由于他们忘记了密码，他们迄今为止拍下的家庭照片将全部丢失，那可是说不过去的，”索戈延说。“企业终归是要向公众出售产品。”

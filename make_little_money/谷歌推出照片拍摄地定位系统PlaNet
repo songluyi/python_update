@@ -1,0 +1,22 @@
+Google has unveiled a system that attempts to pinpoint the location of where a photograph was taken by analysing the image, as the internet group continues to experiment with advanced “machine learning” technologies.
+谷歌(Google)推出了一套试图利用图像分析来准确定位照片拍摄地的系统，继续围绕先进的“机器学习”技术展开实验。
+Though at its early stages, the Californian company’s system is another example of how Silicon Valley groups are making giant strides in artificial intelligence, using the ability to crunch huge amounts of data and spot patterns to develop capabilities far beyond human brains.
+尽管这套系统仍处于初级阶段，但它再次突显出硅谷(Silicon Valley)企业是如何在人工智能(AI)领域取得巨大进展的。人工智能是利用处理海量数据和从中辨识出模式的计算能力，来开发出远胜人类大脑的智能。
+Google’s latest experiment attempts solve a task that most humans find difficult: looking at a picture at random and trying to work out where it was taken.
+谷歌的最新实验旨在完成一项多数人都认为困难的任务：浏览一张随机给出的照片，然后辨别出这张照片是在哪里拍摄的。
+Humans are able to make rough guesses on where a shot has been taken based on clues in the picture, such as the type of trees in background and the architectural style of buildings. This task has proven beyond most computer systems.
+人类能够根据照片上的线索——比如背景中树木的种类和建筑物的建筑风格——来对拍摄地作大致的推测。这一任务已被证实超出了大多数计算机系统的处理能力。
+This week, Tobias Weyand, a computer vision specialist at Google, unveiled a system called PlaNet, that is able to decipher where a photograph has been taken by analysing the pixels it contains.
+本周，谷歌计算机视觉处理专家托拜厄斯•韦安德(Tobias Weyand)发布了这个名为PlaNet的系统。该系统可以通过分析照片中包含的像素来判断出拍摄地。
+“We think PlaNet has an advantage over humans because it has seen many more places than any human can ever visit and has learnt subtle cues of different scenes that are even hard for a well-travelled human to distinguish,” Mr Weyand told MIT Technology Review, which first reported the news.
+“我们认为PlaNet相对于人类拥有一个优势，它所见过的地方比任何一个人可能前往的地方都多得多，并且它掌握不同场景的细微线索，而即使是那些经常旅行的人也很难辨识出这些线索，”韦安德向《麻省理工科技评论》(MIT Technology Review)表示。这份杂志最先报道了这则消息。
+His team divided the world into a grid containing 26,000 squares — each one representing a specific geographical area.
+韦安德的团队将世界划分为一个网格，其中包含2.6万个方格，每个方格代表一个具体的地理区域。
+For every square, the scientists created a database of images derived from the internet that could be identified by their “geolocation” — the digital signatures that show where many photographs are taken. This database was made up of 126m images.
+科学家们为这些方格建立了一个图片数据库，所有图片均来自互联网、并以各自的“地理定位”（即显示照片拍摄地的数字签名）为标识符。该数据库包含1.26亿张图片。
+Using this information, the team would teach a neural network — a computer system modelled on how layers of neurons in the brain interact — to place each image to a specific place.
+该团队将利用这些信息训练一个神经网络——模拟大脑皮层神经元交互的计算机系统——学会如何把每张图片对应一个具体的地点。
+Mr Weyand’s team plugged 2.3m geotagged images from Flickr, the online photo library, to see whether the system could correctly determine their location.
+韦安德的团队用230万张来自在线图片库Flickr的包含地理位置标签的图片，来检验该系统能否正确判断出图片的拍摄地。
+Though this means it is far from perfect, this performance is far better than humans. According to the team’s findings, the “median human localisation error” — meaning the median distance from where a person guessed the location of a picture, to where it was actually taken — is 2,320.75km. PlaNet’s median localisation error is 1,131.7km.
+尽管结果表明该系统远未达到完美，但其表现远胜人类。该团队的研究发现显示，“人类定位误差中值”——即一个人所猜的拍摄地距真正拍摄地的距离的中值——是2320.75公里。PlaNet的定位误差中值是1131.7公里。

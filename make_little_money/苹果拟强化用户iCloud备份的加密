@@ -1,0 +1,24 @@
+Apple is working on new ways to strengthen the encryption of customers’ iCloud backups in a way that would make it impossible for the company to comply with valid requests for data from law enforcement, according to people familiar with its plans.
+苹果(Apple)正在研发新的方法来强化对用户iCloud备份的加密。据熟悉该计划的人士称，这将使得苹果在面对执法部门发出的有法律效力的获取数据的请求时，无法提供任何帮助。
+The move would bolster Apple customers’ security against hackers but also frustrate investigators who are currently able to obtain data from Apple’s servers through a court order. Apple has complied with thousands of such orders in the past.
+此举不但可以提升苹果用户享有的安全性、防范黑客攻击，而且会让调查人员徒劳无功。调查人员目前可以借助法庭令从苹果服务器获得数据。过去，苹果已遵照执行了几千个这样的法院令。
+Developing such technology is in some ways more complex than adding the kind of device-level security that Apple introduced to the iPhone in 2014 with its iOS 8 update.
+从某种角度讲，研发这类技术要比添加那种设备层安全更复杂。2014年，苹果利用其iOS 8更新将设备层安全引入iPhone。
+Building new protections that mean Apple no longer has access to iCloud encryption keys may inconvenience some customers. Such a change would most likely mean that customers who forget their iCloud password may be left unable to access their photos, contacts and other personal information that is backed up to Apple’s systems.
+建立新的防护措施意味着，苹果不再能够访问iCloud加密密钥，这可能会为部分用户带来不便。这种变化最可能导致的是，如果用户忘记iCloud密码，可能就无法访问他们的照片、联系人以及备份到苹果系统上的其他个人信息。
+The plan adds a new twist to Apple’s legal fight with US authorities over access to the San Bernardino shooter’s iPhone. The case has divided US public opinion between those who believe that Apple should help investigators trying to unlock Syed Rizwan Farook’s iPhone, and others who agree with chief executive Tim Cook that doing so would create a dangerous precedent that threatened customer security.
+该计划为苹果与美国当局围绕是否该解锁圣贝纳迪诺枪击案凶手的iPhone手机而爆发的法律战增添了新的波折。这宗枪击案使美国舆论出现了分歧，其中一方认为苹果应帮助调查人员尝试解锁赛义德•里兹万•法鲁克(Syed Rizwan Farook)的iPhone，另一方则赞同苹果首席执行官蒂姆•库克(Tim Cook)的主张，即这么做将树立一个危险的先例、对用户享有的安全性构成威胁。
+In an interview with ABC News on Wednesday, Mr Cook said that complying with the FBI’s demand to create a new version of its operating system, which would allow investigators to break into the iPhone, would be like writing “the software equivalent of cancer”.
+库克周三接受ABC News采访时表示，听从美国联邦调查局(FBI)的要求开发一个新版本的操作系统（这将让调查人员能够侵入那部iPhone），就像是编写“等同于癌症的软件”。
+“There are many things technology should never be allowed to do. The way you do not allow it, is to not create it,” Mr Cook said.
+“Security gets better with every software release that we have. Encryption gets more advanced. It has to, to stay one step ahead of the bad guys.”
+“我们每发布一个版本的软件，安全性就提高一级。加密变得更加先进。为了比那些坏家伙领先一步，不得不如此。”
+Last week, in a conference call with reporters, when asked if the iPhone maker would take further steps to harden its products, an Apple executive said that it was reasonable to expect that Apple would continue to strengthen its security.
+上周，在与记者们的电话会议上，当有人问到苹果是否会采取进一步举措来强化其产品时，一名苹果高管表示，认为苹果会继续加强其安全性的想法是合理的。
+The New York Times reported on Wednesday that Apple engineers had already begun developing new security measures that would prevent authorities from accessing an iPhone, even if they were equipped with the kind of software tool that the company is fighting not to write.
+《纽约时报》(The New York Times)周三报道称，苹果工程师已开始开发新的安全措施，这些措施将使得当局无法获取iPhone的信息，即便它们搭载了该公司正努力抗争不去编写的那种软件工具。
+Apple declined to comment on its plans.
+苹果拒绝就其计划置评。
+Speaking to ABC, Mr Cook said that he would be prepared to take its current fight with the FBI to the Supreme Court if necessary.
+库克在接受ABC采访时表示，若有必要，他将准备把眼下与FBI的这场法律战打到最高法院(Supreme Court)那里。
+“If a court compels Apple to write this piece of software, to place a backdoor in the iPhone, we believe it does put hundreds of millions of customers at risk,” he said. “This is not about one phone, this is about the future.”

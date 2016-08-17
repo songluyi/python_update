@@ -1,0 +1,18 @@
+Hackers brought down the power supply to hundreds of homes in Ukraine last week, in a cyber attack believed to be the first ever to result in a power outage.
+上周，乌克兰数百户家庭的供电遭到黑客破坏，据信这是有史以来首次导致停电的网络攻击。
+The Ukrainian energy ministry said it was probing a “suspected” cyber attack on the power grid, targeting several regional power companies, which the country’s intelligence service blamed on “Russian special services”. Moscow has not responded to the allegation.
+乌克兰能源部表示，正在调查一起对电网发起的“疑似”网络攻击，这起攻击的目标是数家地方性电力公司。乌克兰情报部门认为，这起攻击是由“俄罗斯特殊部门”发动的。莫斯科方面未对这一指控作出回应。
+John Hultquist, head of cyber espionage intelligence at iSight partners, a US-based threat intelligence company, said it was the first time the cyber security industry had seen a cyber attack result in the shutdown of power.
+iSight Partners网络间谍情报负责人约翰胡尔特奎斯特(John Hultquist)表示，这是网络安全行业首次目睹导致停电的网络攻击。iSight Partners是一家位于美国的安全威胁情报公司。
+Experts have warned for years that the industrial systems that control critical infrastructure such as power plants are vulnerable. Malicious software, known as malware, has previously been discovered on these networks, but no one has yet linked these infections to an outage.
+专家们多年前就开始提醒，像电厂这样控制着关键基础设施的工业系统很容易受到攻击。此前在工业系统的网络上已经发现了恶意软件，但还没有人将这些侵入与停电联系起来。
+Mr Hultquist said that the versions of the malware used in the attack, called BlackEnergy, point to Russian hackers known as the Sandworm team who have previously infected power suppliers in the US and Europe. The malware was found in the west in 2014 and is thought to have been wiped from the targets’ networks.
+胡尔特奎斯特表示，这起攻击所用的恶意软件名为BlackEnergy，攻击者应是被称为“沙虫”(Sandworm)的俄罗斯黑客组织，他们先前曾攻陷过美国和欧洲的电力供应商。BlackEnergy于2014年出现在西方世界，人们以为这款恶意软件已从目标网络中被清除。
+Slovakian antivirus software firm Eset also said that it had found evidence of BlackEnergy being used in attacks on Ukrainian energy companies, which it said was focused on destruction rather than just deleting documents.
+斯洛伐克杀毒软件公司Eset还表示，它发现证据有表明，BlackEnergy被用于向乌克兰能源企业发起攻击。该公司还表示，这起攻击的重点是造成破坏，而不仅仅是删除文件。
+Prykarpattyaoblenergo, a power company in western Ukraine, said that a “large-scale breakdown” had left several districts without power for hours on December 23, which it blamed on “interference”. The area included the regional capital, Ivano-Frankivsk, a city of 1.4m people.
+乌克兰西部的电力公司Prykarpattyaoblenergo表示，12月23日的“大规模故障”导致数个区域断电几个小时，该公司将此次故障归因于“干扰”。停电区域包括该地区首府伊万诺-弗兰科夫斯克(Ivano-Frankivsk)，这座城市有140万居民。
+Tensions between Ukraine and Russia have eased slightly since September as fighting has died down between Russia-backed separatists and Ukrainian forces in breakaway regions in the east of the country.
+去年9月起，乌克兰与俄罗斯之间的紧张关系有所缓和，乌克兰军队与受俄支持的分离主义分子在乌东部分离地区的战斗也平息了下来。
+But they flared again in recent weeks after unidentified saboteurs brought down Ukrainian electricity supply lines carrying power to Crimea, plunging much of the Black Sea peninsula — which Russia annexed in 2014 — into darkness.
+但随着不明身份的破坏者破坏乌克兰向克里米亚输送电力的电缆，使这个位于黑海的半岛（2014年被俄吞并）的许多地区陷入黑暗，双方之间的关系在最近几周再度紧张起来。

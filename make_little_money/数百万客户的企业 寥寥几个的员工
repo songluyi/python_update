@@ -1,0 +1,40 @@
+The technology that followed the invention of the transistor in 1947 and later the microchip — and the subsequent speeding up and shrinking of electronic processes — has had many unexpected spin-offs.
+1947年晶体管发明，随后微芯片发明并带来电子处理的加速和缩减。在这些发明之后出现的科技，已带来了很多意外的副产品。
+One that amuses me is the revival, as I see it, of letter writing. To those who thought the telephone had killed written communication, email, texting and a zillion forms of messaging must have come as quite a surprise.
+一个让我感到愉快的副产品是写信的复兴（在我看来）。对于那些本以为电话消灭了书面交流的人而言，电子邮件、短信和无数种消息传递方式一定让他们相当惊讶。
+Another unimagined consequence of transistorisation (a word, incidentally, that has not appeared once in the FT in recent decades) has interested me of late. It is the way businesses can become global brands with millions of customers while having next to no staff or overheads. Uber, as it is often pointed out, owns no cars, Airbnb, no rooms.
+近来，让我感兴趣的是“晶体管化”（顺便一提，这个词近几十年来一次都未曾在英国《金融时报》上出现过）的另一个意外结果就是：企业可以变成拥有数百万客户的国际品牌，同时却只有寥寥几个员工、微乎其微的管理费用。就如人们经常指出的那样，优步(Uber)不拥有任何车辆，Airbnb也不拥有任何房间。
+Instagram is always the classic example of low headcount. When it was bought by Facebook in 2012 for $1bn, it had 13 employees and just under 100m users. Today, it has a still modest 400 staff, but 400m users.
+Instagram始终是员工数量极少的经典例子。2012年Instagram被Facebook以10亿美元的价格收购时，该公司仅有13名员工，用户数量略低于1亿人。今天，Instagram的员工数量依然不多（400名），但却拥有4亿用户。
+Two recent conversations with a pair of bouncy tech start-ups have vividly illustrated this continuing Instagram phenomenon.
+近期我与两家充满活力的创业型科技公司创始人的谈话，生动地体现出这种Instagram现象的延续。
+The first was in New York with Emmanuel Marot, co-founder of LendingRobot, an automated platform for people putting money into peer-to-peer lending companies, primarily the US leader Lending Club, but also Prosper and Funding Circle.
+第一次是在纽约与LendingRobot的联合创始人埃马纽埃尔•马罗(Emmanuel Marot)的谈话。LendingRobot是一个自动投资平台，供人们将资金投入P2P借贷公司——主要是美国的领军P2P借贷公司Lending Club，但也包括Prosper和Funding Circle。
+Fintech is not particularly my thing, and as of last week, it didn’t seem to be the finance industry’s thing either, after Renaud Laplanche, Lending Club’s founder, resigned. Its shares duly plummeted following the results of an internal investigation, and the whole sector is not now at its most fragrant.
+我对金融科技并不是特别感冒，就上周Lending Club创始人雷诺•拉普朗什(Renaud Laplanche)辞职时的情况来看，金融科技似乎没有得到金融业的青睐。这家公司的股价在一次内部调查的结果公布后应声暴跌，整个行业也不复最景气时的光景。
+As an independent business, however, the two-year-old LendingRobot claims its business of robotically selecting the best borrowers available is proceeding as normal. It has 5,000 clients representing $80m, with investors staking from $200 to $4m.
+然而，作为一家独立企业，创立已经2年的LendingRobot声称其自动选择最佳可选借款人的业务正在照常开展。该公司拥有5000名客户，这些客户代表的资金达8000万美元，股东对这家公司的投资从200美元到400万美元不等。
+My meeting with Mr Morot came just before the Lending Club debacle. And while the finance teach-in was educational, it was inevitably the technology behind the business that grabbed my imagination.
+我与马罗的会面是在Lending Club股价暴跌前不久进行的。尽管那场金融讨论会很有教育意义，激发我想象力的难免还是支撑这家企业的技术。
+LendingRobot’s algorithm rates 40 borrower characteristics to predict the probability of default. It can filter hundreds of thousands of borrowers in milliseconds and provide potential lenders with a selection of quality loans within five seconds.
+LendingRobot的算法通过评定借款人的40项特质来预测违约的可能性。该算法能够在数毫秒内筛完数十万借款人，在5秒内为潜在的贷款人提供一组优质贷款。
+So how many staff does LendingRobot have? Seven. Does it plan to expand?
+那么LendingRobot有多少名员工呢？7名。该公司是否计划扩大人员规模？
+“There’s no need,” said Mr Morot. “We are electronic. To improve our machine learning algorithm, we use a team of scientists in Moscow. Actually, our app was developed by a guy in Sweden whom we’ve never met or even talked to.”
+“没有这个必要，”马罗说，“我们是电子公司。我们聘用了莫斯科的一个科学家团队来改善我们的机器学习算法。事实上，我们的应用是瑞典的一个人开发的，我们从来没跟他见过面，甚至从没跟他说过话。”
+The Moscow team, he added, themselves outsource. “I believe there is even someone at the Large Hadron Collider in Geneva working for us.”
+他补充道，莫斯科那个团队自己也把一些工作外包出去。“我相信，甚至有个在日内瓦大型强子对撞机(LHC)工作的人在帮我们干活儿。”
+Back in London, I discussed this palpable lack of bums-on-seats with Chris Sheldrick, founder of What3Words, a fascinating start-up I wrote about last October.
+回到伦敦，我和What3Words的创始人克里斯•谢尔德里克(Chris Sheldrick)讨论了企业雇员较少的明显问题（我曾在去年10月写过一篇有关这家有趣的创业型企业的文章）。
+What3Words is in the course of revolutionising postal addresses. It divides the world into 57tn 3-metre squares, allocating each a three-word address. This makes it possible for packages to be delivered to a tent in the desert or a spot in a Gulf state devoid of reliable addresses.
+What3Words正在给邮政地址带来一场革命。该公司将地球表面分成了57万亿块（每块3米见方），给每一块分配一个3个单词的地址。这让包裹能够寄送到沙漠中的一个帐篷，或者某个缺乏可靠地址的海湾国家的某个位置。
+Mr Sheldrick is becoming something of a British tech hero, as well as an interesting thinker on matters tech and start-up. Since I first met him in September, What3Words has expanded — from 12 people to 15. His estimate for the business’s headcount once it is a true global brand used, conceivably, by billions? No more than 30.
+某种程度上，谢尔德里克正成为一名英国科技英雄，他对科技和创业型公司方面的事情也有许多有趣的思考。比起我去年9月第一次见到他的时候，如今What3Words的人员规模扩大了——从12个人增加到了15个。如果这家公司真正成为一个数十亿人都使用的国际品牌，他估计这家公司的员工会有多少人呢？不超过30人。
+“What3Words is an encoder and decoder of GPS co-ordinates. It doesn’t need a lot of people servicing it, and that was part of the appeal when we started it.”
+“What3Words是全球定位系统(GPS)坐标的编码器和解码器。不需要很多人维护它，这也是我们创立它时的部分吸引力所在。”
+I asked Mr Sheldrick to suggest what makes such seemingly infinite scaleability possible. He thought about this for a while.
+我请谢尔德里克说一说是什么让这种似乎无限的业务可扩展性成为可能。他思索了一会儿。
+“The value in today’s platforms,” he finally said, “is having a lot of people doing the same thing in sync. There’s probably a load of other things where people want to do something the same way and there could be a platform for them to do that.
+“今天这些平台的价值，”他最后说，“在于让很多人协同做同一件事情。很可能还有很多其他事情，是人们想要以同样的方式去做的，有可能会有一个平台让他们实现愿望。”
+“This time next year,” he concluded, “we’ll be talking about how someone else has done that.”
+“明年的这个时候，”他总结道，“我们就会在讨论其他人是怎么实现这一点的。”
