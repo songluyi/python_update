@@ -28,8 +28,20 @@ Contact:    slysly759@gmail.com
 # header=new_html.xpath('//*[@id="nrtitle"]')
 # result=new_html.xpath("//*[contains(@id, 'en')]/p")
 # print(result)
-import string
-s='string. With. Punctuation?'
-exclude = set(string.punctuation)
-s = ''.join(ch for ch in s if ch not in exclude)
+# import string
+# s='string. With. Punctuation?'
+# exclude = set(string.punctuation)
+# s = ''.join(ch for ch in s if ch not in exclude)
+# print(s)
+# import  string,re
+# s='技术服务TTD'
+# result=re.findall('[A-Z]{3}',s)
+# print(result)
+# if len(result)==0:
+#    result.append('')
+# param=result[0]
+# new_s=s.replace(param,'')
+# print(param+new_s)
+
+s=[1,2];b=['avc']
 print(s)
