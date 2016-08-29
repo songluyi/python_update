@@ -2,23 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d2dd97e-866c-4fcb-af6e-88b75b8b731e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/自动化测试/change_web_data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/廖雪峰的进阶/one_help.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/make_little_money/some_help.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/廖雪峰的进阶/复习lambda.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logging模块学习/学习logging.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/廖雪峰的进阶/定制类.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/正则表达式测试.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/自动化测试/火狐自动化测试脚本.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_site/留言板.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/廖雪峰的进阶/类和实例.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/廖雪峰的进阶/装饰器.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/自动化测试/谷歌自动化测试脚本.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/廖雪峰的进阶/返回函数.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/廖雪峰的进阶/递归函数.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/廖雪峰的进阶/闭包问题.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/廖雪峰的进阶/Flask+jinjia2学习.py" afterPath="$PROJECT_DIR$/廖雪峰的进阶/Flask+jinjia2学习.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/廖雪峰的进阶/TCP编程之客户端.py" afterPath="$PROJECT_DIR$/廖雪峰的进阶/TCP编程之客户端.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/廖雪峰的进阶/TCP编程之服务端.py" afterPath="$PROJECT_DIR$/廖雪峰的进阶/TCP编程之服务端.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/廖雪峰的进阶/aiohttp.py" afterPath="$PROJECT_DIR$/廖雪峰的进阶/aiohttp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/廖雪峰的进阶/async的学习.py" afterPath="$PROJECT_DIR$/廖雪峰的进阶/async的学习.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/廖雪峰的进阶/元类.py" afterPath="$PROJECT_DIR$/廖雪峰的进阶/元类.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/廖雪峰的进阶/协程的学习.py" afterPath="$PROJECT_DIR$/廖雪峰的进阶/协程的学习.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/廖雪峰的进阶/学习flask.py" afterPath="$PROJECT_DIR$/廖雪峰的进阶/学习flask.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/廖雪峰的进阶/学习协程模块asycnio.py" afterPath="$PROJECT_DIR$/廖雪峰的进阶/学习协程模块asycnio.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/廖雪峰的进阶/容错处理.py" afterPath="$PROJECT_DIR$/廖雪峰的进阶/容错处理.py" />
     </list>
     <ignored path="python_update.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,6 +26,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_update$asycnio.coverage" NAME="学习协程模块asycnio Coverage Results" MODIFIED="1472100871286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/廖雪峰的进阶" />
     <SUITE FILE_PATH="coverage/python_update$NO6.coverage" NAME="NO6 Coverage Results" MODIFIED="1470645335447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_challenge" />
     <SUITE FILE_PATH="coverage/python_update$make_yzm.coverage" NAME="make_yzm Coverage Results" MODIFIED="1470804542911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_solution_to_show_me_the_code/0001" />
     <SUITE FILE_PATH="coverage/python_update$Doctests_in_parser__1_.coverage" NAME="Doctests in parser Coverage Results" MODIFIED="1470720884876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FamousMd/Markdown-Parser-Python" />
@@ -41,12 +36,13 @@
     <SUITE FILE_PATH="coverage/python_update$my_code_count.coverage" NAME="my_code_count Coverage Results" MODIFIED="1470974471763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_update$textjson.coverage" NAME="text转json Coverage Results" MODIFIED="1470982431280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_solution_to_show_me_the_code/test转json" />
     <SUITE FILE_PATH="coverage/python_update$Doctests_in_parser.coverage" NAME="Doctests in parser Coverage Results" MODIFIED="1470713809914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FamousMd/MarkdownPraser" />
-    <SUITE FILE_PATH="coverage/python_update$some_help.coverage" NAME="some_help Coverage Results" MODIFIED="1472014384061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/make_little_money" />
+    <SUITE FILE_PATH="coverage/python_update$some_help.coverage" NAME="some_help Coverage Results" MODIFIED="1472019780219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/make_little_money" />
     <SUITE FILE_PATH="coverage/python_update$make_active_code.coverage" NAME="make_active_code Coverage Results" MODIFIED="1470892269635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_solution_to_show_me_the_code/生成激活码" />
     <SUITE FILE_PATH="coverage/python_update$markup__1_.coverage" NAME="markup (1) Coverage Results" MODIFIED="1470655198334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PraseMd" />
     <SUITE FILE_PATH="coverage/python_update$change_web_data.coverage" NAME="change_web_data Coverage Results" MODIFIED="1471678571196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试" />
     <SUITE FILE_PATH="coverage/python_update$0000__1_.coverage" NAME="0000 (1) Coverage Results" MODIFIED="1470801893516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_solution_to_show_me_the_code/0000" />
     <SUITE FILE_PATH="coverage/python_update$crawl_web.coverage" NAME="crawl_web Coverage Results" MODIFIED="1471262603048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/make_little_money" />
+    <SUITE FILE_PATH="coverage/python_update$aiohttp.coverage" NAME="aiohttp Coverage Results" MODIFIED="1472101157926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/廖雪峰的进阶" />
     <SUITE FILE_PATH="coverage/python_update$NO7.coverage" NAME="NO7 Coverage Results" MODIFIED="1470651157963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_challenge" />
     <SUITE FILE_PATH="coverage/python_update$make_ascii_pic__1_.coverage" NAME="make_ascii_pic (1) Coverage Results" MODIFIED="1470539456215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/make_some_ascii_pic" />
     <SUITE FILE_PATH="coverage/python_update$make_check_code.coverage" NAME="make_check_code Coverage Results" MODIFIED="1470981942045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_solution_to_show_me_the_code/生成随机验证码" />
@@ -54,11 +50,14 @@
     <SUITE FILE_PATH="coverage/python_update$make_ascii_pic.coverage" NAME="make_ascii_pic Coverage Results" MODIFIED="1470718965341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/make_some_ascii_pic" />
     <SUITE FILE_PATH="coverage/python_update$Russia.coverage" NAME="Russia Coverage Results" MODIFIED="1470720648532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about some xml crawl fuck" />
     <SUITE FILE_PATH="coverage/python_update$0000.coverage" NAME="0000 Coverage Results" MODIFIED="1470801815171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_solution_to_show_me_the_code" />
+    <SUITE FILE_PATH="coverage/python_update$Flask_jinjia2.coverage" NAME="Flask+jinjia2学习 Coverage Results" MODIFIED="1472031784200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/廖雪峰的进阶" />
     <SUITE FILE_PATH="coverage/python_update$lambda.coverage" NAME="复习lambda Coverage Results" MODIFIED="1471923798494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/廖雪峰的进阶" />
     <SUITE FILE_PATH="coverage/python_update$cqs_branch_connect.coverage" NAME="cqs_branch_connect Coverage Results" MODIFIED="1470900560564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/fightpython3/bin" />
     <SUITE FILE_PATH="coverage/python_update$auto_input_data.coverage" NAME="auto_input_data Coverage Results" MODIFIED="1471398752153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试" />
+    <SUITE FILE_PATH="coverage/python_update$bittorrent.coverage" NAME="bittorrent Coverage Results" MODIFIED="1472023407023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bittorrent" />
     <SUITE FILE_PATH="coverage/python_update$NO5.coverage" NAME="NO5 Coverage Results" MODIFIED="1470644121938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_challenge" />
     <SUITE FILE_PATH="coverage/python_update$NO2.coverage" NAME="NO2 Coverage Results" MODIFIED="1470720723143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_challenge" />
+    <SUITE FILE_PATH="coverage/python_update$TCP.coverage" NAME="TCP编程之客户端 Coverage Results" MODIFIED="1472028836591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/廖雪峰的进阶" />
     <SUITE FILE_PATH="coverage/python_update$test_argparse.coverage" NAME="test_argparse Coverage Results" MODIFIED="1470390845378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_update$new_site.coverage" NAME="new_site Coverage Results" MODIFIED="1470993709575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_site" />
     <SUITE FILE_PATH="coverage/python_update$accumalate_counts.coverage" NAME="accumalate_counts Coverage Results" MODIFIED="1470909583174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_solution_to_show_me_the_code/统计词频" />
@@ -68,10 +67,12 @@
     <SUITE FILE_PATH="coverage/python_update$server.coverage" NAME="server Coverage Results" MODIFIED="1470995188720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_site" />
     <SUITE FILE_PATH="coverage/python_update$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1471262322926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_update$one_help.coverage" NAME="one_help Coverage Results" MODIFIED="1471931470157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/廖雪峰的进阶" />
+    <SUITE FILE_PATH="coverage/python_update$async.coverage" NAME="async的学习 Coverage Results" MODIFIED="1472100700852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/廖雪峰的进阶" />
     <SUITE FILE_PATH="coverage/python_update$2048.coverage" NAME="2048 Coverage Results" MODIFIED="1470540028815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_update$NO8.coverage" NAME="NO8 Coverage Results" MODIFIED="1470656047575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_challenge" />
+    <SUITE FILE_PATH="coverage/python_update$flask.coverage" NAME="学习flask Coverage Results" MODIFIED="1472030489016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/廖雪峰的进阶" />
     <SUITE FILE_PATH="coverage/python_update$test.coverage" NAME="test Coverage Results" MODIFIED="1471682007431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_update$.coverage" NAME="定制类 Coverage Results" MODIFIED="1471953002792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/廖雪峰的进阶" />
+    <SUITE FILE_PATH="coverage/python_update$.coverage" NAME="协程的学习 Coverage Results" MODIFIED="1472032887815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/廖雪峰的进阶" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -85,38 +86,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="some_help.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/make_little_money/some_help.py">
+      <file leaf-file-name="Flask+jinjia2学习.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/Flask+jinjia2学习.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.008417509" vertical-offset="318" max-vertical-offset="969">
-              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-              <folding>
-                <element signature="e#287#302#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="722">
+              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="crawl_web.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/make_little_money/crawl_web.py">
+      <file leaf-file-name="协程的学习.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/协程的学习.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1197">
-              <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
-              <folding>
-                <element signature="e#305#327#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.8121911" vertical-offset="115" max-vertical-offset="722">
+              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="one_help.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/one_help.py">
+      <file leaf-file-name="学习协程模块asycnio.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/学习协程模块asycnio.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="494">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="e#288#302#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="1026">
+              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,19 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FamousMd/MarkdownPraser/render.py" />
-        <option value="$PROJECT_DIR$/FamousMd/test.py" />
-        <option value="$PROJECT_DIR$/FamousMd/MarkdownPraser/parser.py" />
-        <option value="$PROJECT_DIR$/about some xml crawl fuck/Russia.py" />
-        <option value="$PROJECT_DIR$/my_solution_to_show_me_the_code/0000.py" />
-        <option value="$PROJECT_DIR$/my_solution_to_show_me_the_code/0000/0000.py" />
-        <option value="$PROJECT_DIR$/my_solution_to_show_me_the_code/0001/make_yzm.py" />
-        <option value="$PROJECT_DIR$/my_solution_to_show_me_the_code/0001/生成验证码.py" />
-        <option value="$PROJECT_DIR$/my_solution_to_show_me_the_code/生成激活码/make_secret.py" />
-        <option value="$PROJECT_DIR$/my_solution_to_show_me_the_code/生成激活码/make_active_code.py" />
-        <option value="$PROJECT_DIR$/my_solution_to_show_me_the_code/生成激活码/one_help.py" />
-        <option value="$PROJECT_DIR$/python_challenge/NO3.py" />
-        <option value="$PROJECT_DIR$/my_solution_to_show_me_the_code/统计词频/tj.txt" />
         <option value="E:/fightpython3/bin/cqs_branch_connect.py" />
         <option value="$PROJECT_DIR$/my_solution_to_show_me_the_code/统计词频/test.py" />
         <option value="$PROJECT_DIR$/my_solution_to_show_me_the_code/统计词频/accumalate_counts.py" />
@@ -180,6 +162,19 @@
         <option value="$PROJECT_DIR$/廖雪峰的进阶/类和实例.py" />
         <option value="$PROJECT_DIR$/廖雪峰的进阶/定制类.py" />
         <option value="$PROJECT_DIR$/make_little_money/some_help.py" />
+        <option value="$PROJECT_DIR$/廖雪峰的进阶/元类.py" />
+        <option value="$PROJECT_DIR$/廖雪峰的进阶/容错处理.py" />
+        <option value="$PROJECT_DIR$/bittorrent/bittorrent.py" />
+        <option value="$PROJECT_DIR$/bittorrent/download.py" />
+        <option value="$PROJECT_DIR$/廖雪峰的进阶/TCP编程.py" />
+        <option value="$PROJECT_DIR$/廖雪峰的进阶/TCP编程之客户端.py" />
+        <option value="$PROJECT_DIR$/廖雪峰的进阶/TCP编程之服务端.py" />
+        <option value="$PROJECT_DIR$/廖雪峰的进阶/学习flask.py" />
+        <option value="$PROJECT_DIR$/廖雪峰的进阶/Flask+jinjia2学习.py" />
+        <option value="$PROJECT_DIR$/廖雪峰的进阶/协程的学习.py" />
+        <option value="$PROJECT_DIR$/廖雪峰的进阶/async的学习.py" />
+        <option value="$PROJECT_DIR$/廖雪峰的进阶/aiohttp.py" />
+        <option value="$PROJECT_DIR$/廖雪峰的进阶/学习协程模块asycnio.py" />
       </list>
     </option>
   </component>
@@ -189,7 +184,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -234,20 +229,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_update" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_update" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="廖雪峰的进阶" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -277,8 +258,8 @@
       <recent name="E:\python_update\my_solution_to_show_me_the_code\test转json" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.some_help">
-    <configuration default="false" name="装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.aiohttp">
+    <configuration default="false" name="Flask+jinjia2学习" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -291,14 +272,14 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_update" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/廖雪峰的进阶/装饰器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/廖雪峰的进阶/Flask+jinjia2学习.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="one_help" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="协程的学习" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -311,16 +292,14 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_update" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/廖雪峰的进阶/one_help.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/廖雪峰的进阶/协程的学习.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="类和实例" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="学习协程模块asycnio" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -333,36 +312,14 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_update" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/廖雪峰的进阶/类和实例.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/廖雪峰的进阶/学习协程模块asycnio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="some_help" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/make_little_money" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_update" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/make_little_money/some_help.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="定制类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="async的学习" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -375,7 +332,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_update" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/廖雪峰的进阶/定制类.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/廖雪峰的进阶/async的学习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="aiohttp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/廖雪峰的进阶" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_update" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/廖雪峰的进阶/aiohttp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -598,19 +575,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Doctests in parser" />
-      <item index="1" class="java.lang.String" itemvalue="Python.装饰器" />
-      <item index="2" class="java.lang.String" itemvalue="Python.one_help" />
-      <item index="3" class="java.lang.String" itemvalue="Python.类和实例" />
-      <item index="4" class="java.lang.String" itemvalue="Python.some_help" />
-      <item index="5" class="java.lang.String" itemvalue="Python.定制类" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Flask+jinjia2学习" />
+      <item index="2" class="java.lang.String" itemvalue="Python.协程的学习" />
+      <item index="3" class="java.lang.String" itemvalue="Python.学习协程模块asycnio" />
+      <item index="4" class="java.lang.String" itemvalue="Python.async的学习" />
+      <item index="5" class="java.lang.String" itemvalue="Python.aiohttp" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.some_help" />
-        <item index="1" class="java.lang.String" itemvalue="Python.定制类" />
-        <item index="2" class="java.lang.String" itemvalue="Python.类和实例" />
-        <item index="3" class="java.lang.String" itemvalue="Python.装饰器" />
-        <item index="4" class="java.lang.String" itemvalue="Python.one_help" />
+        <item index="0" class="java.lang.String" itemvalue="Python.aiohttp" />
+        <item index="1" class="java.lang.String" itemvalue="Python.学习协程模块asycnio" />
+        <item index="2" class="java.lang.String" itemvalue="Python.async的学习" />
+        <item index="3" class="java.lang.String" itemvalue="Python.协程的学习" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Flask+jinjia2学习" />
       </list>
     </recent_temporary>
   </component>
@@ -635,30 +612,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24670571" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41666666" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40408805" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40408805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24743025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43867925" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4009434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43867925" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -703,128 +680,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="34" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FamousMd/Markdown-Parser-Python/render.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5026455" vertical-offset="0" max-vertical-offset="1824">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FamousMd/Markdown-Parser-Python/parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3648">
-          <caret line="186" column="0" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_solution_to_show_me_the_code/0001/code.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_solution_to_show_me_the_code/0001/make_yzm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about some xml crawl fuck/Russia.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7089337" vertical-offset="343" max-vertical-offset="722">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/make_some_ascii_pic/make_ascii_pic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7835366" vertical-offset="661" max-vertical-offset="1349">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_challenge/NO5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0" vertical-offset="128" max-vertical-offset="570">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_challenge/NO4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5945122" vertical-offset="280" max-vertical-offset="608">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_solution_to_show_me_the_code/0001/生成验证码.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_challenge/NO2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="494">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_solution_to_show_me_the_code/生成激活码/make_active_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56345177" vertical-offset="408" max-vertical-offset="1083">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_solution_to_show_me_the_code/图片小红点/0000.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.642978" vertical-offset="0" max-vertical-offset="591">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FamousMd/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3536379" vertical-offset="0" max-vertical-offset="591">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_challenge/NO3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67277485" vertical-offset="256" max-vertical-offset="646">
-          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_solution_to_show_me_the_code/统计词频/accumalate_counts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7015707" vertical-offset="150" max-vertical-offset="532">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_solution_to_show_me_the_code/统计词频/tj.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3604336" vertical-offset="0" max-vertical-offset="369">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2048game/NEW_2048.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.164922" vertical-offset="5793" max-vertical-offset="6175">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my_solution_to_show_me_the_code/统计词频/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
@@ -908,16 +768,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3434343" vertical-offset="114" max-vertical-offset="1330">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3434343" vertical-offset="114" max-vertical-offset="1330">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2048game/model.py">
@@ -928,16 +788,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/自动化测试/readmefirst.md">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/自动化测试/auto_input_data.py">
@@ -994,7 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="332" max-vertical-offset="779">
           <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1002,11 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.2505593" vertical-offset="305" max-vertical-offset="1938">
           <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
-          <folding>
-            <element signature="e#288#325#0" expanded="false" />
-            <marker date="1471753791396" expanded="true" signature="-1:-1" placeholder="select name,..entries..." />
-            <marker date="1471753791396" expanded="true" signature="-1:-1" placeholder="insert into ..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,7 +868,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1029083" vertical-offset="77" max-vertical-offset="684">
           <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,7 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6375839" vertical-offset="0" max-vertical-offset="447">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,27 +882,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42505592" vertical-offset="0" max-vertical-offset="447">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/make_little_money/crawl_web.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="1197">
-          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
-          <folding>
-            <element signature="e#305#327#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/one_help.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="494">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#288#302#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1058,7 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8685714" vertical-offset="57" max-vertical-offset="494">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1066,7 +896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9714286" vertical-offset="1541" max-vertical-offset="1995">
           <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1074,9 +903,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.54285717" vertical-offset="95" max-vertical-offset="741">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="67" />
-          <folding>
-            <element signature="e#299#313#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1084,17 +910,150 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1942858" vertical-offset="0" max-vertical-offset="608">
           <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/one_help.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5947282" vertical-offset="0" max-vertical-offset="607">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#288#302#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/make_little_money/crawl_web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="603" max-vertical-offset="1197">
+          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittorrent/bittorrent.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittorrent/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1805">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/容错处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6742857" vertical-offset="315" max-vertical-offset="665">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittorrent/magnet2torrent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6514286" vertical-offset="228" max-vertical-offset="4332">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittorrent/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22551928" vertical-offset="0" max-vertical-offset="1121">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bittorrent/bittorrent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.76" vertical-offset="1835" max-vertical-offset="2641">
+          <caret line="129" column="32" selection-start-line="129" selection-start-column="32" selection-end-line="129" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/sina.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="87.53571" vertical-offset="3705" max-vertical-offset="146148">
+          <caret line="66" column="28" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/学习flask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3257142" vertical-offset="201" max-vertical-offset="779">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/TCP编程之客户端.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1628572" vertical-offset="11" max-vertical-offset="532">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/TCP编程之服务端.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4885714" vertical-offset="144" max-vertical-offset="779">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/TCP编程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9771428" vertical-offset="125" max-vertical-offset="931">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/元类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7285714" vertical-offset="49" max-vertical-offset="798">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/make_little_money/some_help.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.008417509" vertical-offset="318" max-vertical-offset="969">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-          <folding>
-            <element signature="e#287#302#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="2.4807122" vertical-offset="0" max-vertical-offset="969">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/Flask+jinjia2学习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="722">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/aiohttp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="779">
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/async的学习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6886326" vertical-offset="0" max-vertical-offset="607">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/学习协程模块asycnio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="1026">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/廖雪峰的进阶/协程的学习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8121911" vertical-offset="115" max-vertical-offset="722">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>

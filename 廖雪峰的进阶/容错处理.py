@@ -9,3 +9,21 @@ Contact:    slysly759@gmail.com
  
 -------------------------------------------------------------------------------
 """
+
+# def foo(s):
+#     return 10 / int(s)
+#
+# def bar(s):
+#     return foo(s) * 2
+#
+# def main():
+#     bar('0')
+#
+# main()
+
+import logging
+logging.basicConfig(level=logging.INFO)
+s = '0'
+n = int(s)
+logging.info('n = %d' % n)
+print(10 / n)
