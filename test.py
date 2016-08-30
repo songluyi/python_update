@@ -64,26 +64,40 @@ Contact:    slysly759@gmail.com
 # import time
 # today_time=time.strftime("%H:%M:%S", time.localtime()).split(':')
 # print(type(today_time[0]))
+#
+# import requests
+# import re
+# page = 1
+# url = 'http://www.qiushibaike.com/hot/page/' + str(page)+'/'
+# user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
+# headers = { 'User-Agent' : user_agent }
+# i=1
+# request = requests.get(url,headers = headers)
+# content = request.content.decode('utf-8')
+# print(content)
+# pattern = re.compile('&lt;h2&gt;(.*)&lt;/h2&gt;.*\n&lt;/a&gt;.*\n&lt;/div&gt;.*\n.*\n.*\n.*&lt;div class="content"&gt;.*\n.*\n(.*)\n&lt;!--.*--&gt;')
+# items = re.findall(pattern,content)
+# print(items)
+# for item in items:
+#     newitem =item[1].replace('&lt;br/&gt;','\n')
+#     print('这是第%d个笑话:\n ' % i)
+#     print('作者是：' ,item[0])
+#     print(newitem)
+#     print('\n')
+#     i+=1
 
-import requests
-import re
-page = 1
-url = 'http://www.qiushibaike.com/hot/page/' + str(page)+'/'
+import requests,random
+from lxml import etree
+url = 'http://www.qiushibaike.com/hot/page/2/'#直接选择一页的笑话list随机选择一个比较好~
 user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
 headers = { 'User-Agent' : user_agent }
-i=1
 request = requests.get(url,headers = headers)
 content = request.content.decode('utf-8')
-print(content)
-pattern = re.compile('&lt;h2&gt;(.*)&lt;/h2&gt;.*\n&lt;/a&gt;.*\n&lt;/div&gt;.*\n.*\n.*\n.*&lt;div class="content"&gt;.*\n.*\n(.*)\n&lt;!--.*--&gt;')
-items = re.findall(pattern,content)
-print(items)
-for item in items:
-    newitem =item[1].replace('&lt;br/&gt;','\n')
-    print('这是第%d个笑话:\n ' % i)
-    print('作者是：' ,item[0])
-    print(newitem)
-    print('\n')
-    i+=1
+html=etree.HTML(content)
+result=html.xpath('//*[@id="content-left"]/div/div[2]')
+random_number=random.randint(1,10)
+choice_joke=result[random_number]
+print(choice_joke.text)
+
 
 

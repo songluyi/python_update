@@ -49,8 +49,9 @@ class crawl_spider(object):
         +'3.'+row_weather_data['suggestion']['drsg']['txt']
         row_sms=sms_header+today_weather
         return row_sms
+#下面是一个非常简单的joke小函数大家可以自己发挥
     def crawl_jokes(self):
-        import requests
+        import requests,random
         from lxml import etree
         url = 'http://www.qiushibaike.com/hot/page/2/'#直接选择一页的笑话list随机选择一个比较好~
         user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
@@ -58,8 +59,10 @@ class crawl_spider(object):
         request = requests.get(url,headers = headers)
         content = request.content.decode('utf-8')
         html=etree.HTML(content)
-        result=html.xpath('')
-        print(content)
+        result=html.xpath('//*[@id="content-left"]/div/div[2]')
+        random_number=random.randint(1,10)
+        choice_joke=result[random_number]
+        return choice_joke.text
     def main(self):
         info=crawl_spider().crawl_weather('yuanan')
         print(info)
