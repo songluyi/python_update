@@ -84,16 +84,42 @@ Contact:    slysly759@gmail.com
 # print('----------------------------------')
 # fnc2()
 # print('fnc2.__name__ = %s' % fnc2.__name__)
-def print_integers(values):
-    def is_integer(value):
-        try:
-          return value == int(value)
-        except:
-            return False
-    for v in values:
-        if is_integer(v):
-            print(v)
-        else:
-            return 'False'
-s=print_integers([1,2,3,"4", "parrot", 314])
-print(s)
+# def print_integers(values):
+#     def is_integer(value):
+#         try:
+#           return value == int(value)
+#         except:
+#             return False
+#     for v in values:
+#         if is_integer(v):
+#             print(v)
+#         else:
+#             return 'False'
+# s=print_integers([1,2,3,"4", "parrot", 314])
+# print(s)
+
+
+import functools
+
+def log(func):
+    @functools.wraps(func)
+    def wrapper(*args, **kw):
+        print('call %s():' % func.__name__)
+        return func(*args, **kw)
+    return wrapper
+import time
+@log
+def now():
+    today_time=time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    print(today_time)
+
+
+print(now.__name__)
+def kkk(text):
+    def log(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kw):
+            print('call %s():' % func.__name__)
+            return func(*args, **kw)
+        return wrapper
+    return log
