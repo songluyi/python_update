@@ -9,14 +9,15 @@ Contact:    slysly759@gmail.com
  
 -------------------------------------------------------------------------------
 """
-
 class crawl_spider(object):
     #抓取天气数据的爬虫
     def crawl_weather(self,place):
         from urllib.request import urlopen
         import json
         url = 'https://api.heweather.com/x3/weather?city='+place
-        my_key='6776727eef70459991f29b407baef43a'#和风天气的API key 填入就好
+        from msg_pro.sms import sms_send
+        config=sms_send().load_setting()
+        my_key=config[2]#和风天气的API key 填入就好
         full_url=url+'&key='+my_key
         print(full_url)
         req = urlopen(full_url)
@@ -42,14 +43,16 @@ class crawl_spider(object):
              print(row_weather_info["HeWeather data service 3.0"][0]["status"])
              return False
     def make_need_weather_info(self,row_weather_data):
-        sms_header="【汪汪提示】"
+        from msg_pro.sms import sms_send
+        config=sms_send().load_setting()
+        sms_header=config[3]
         today_weather='今天白天天气为:'+row_weather_data['today_weather']['cond']['txt_d']+' '+'夜间天气为:'+\
         row_weather_data['today_weather']['cond']['txt_n']+' '+'今日有'+row_weather_data['today_weather']['wind']['sc']\
         +' '+'整体温度为'+row_weather_data['today_temp']['tmp']+' '+'因此汪汪建议:1.'+row_weather_data['suggestion']['comf']['txt']+'2.'+row_weather_data['suggestion']['uv']['txt']\
         +'3.'+row_weather_data['suggestion']['drsg']['txt']
         row_sms=sms_header+today_weather
         return row_sms
-#下面是一个非常简单的joke小函数大家可以自己发挥
+    #下面是一个非常简单的抓取joke小函数大家可以自己发挥
     def crawl_jokes(self):
         import requests,random
         from lxml import etree
@@ -59,10 +62,18 @@ class crawl_spider(object):
         request = requests.get(url,headers = headers)
         content = request.content.decode('utf-8')
         html=etree.HTML(content)
-        result=html.xpath('//*[@id="content-left"]/div/div[2]')
+        result=html.xpath('//*[@class="content"]/text()')
         random_number=random.randint(1,10)
         choice_joke=result[random_number]
-        return choice_joke.text
+        return choice_joke
+
+    #微博艾特短信提示功能,待完成
+    def get_weibo_at(self):
+        from selenium import webdriver
+        driver=webdriver.Firefox()
+        driver.get('http://weibo.com/1822822705/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1#_loginLayer_1472635119486')
+        return
+
     def main(self):
         info=crawl_spider().crawl_weather('yuanan')
         print(info)

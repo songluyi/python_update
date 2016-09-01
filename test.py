@@ -86,18 +86,35 @@ Contact:    slysly759@gmail.com
 #     print('\n')
 #     i+=1
 
-import requests,random
-from lxml import etree
-url = 'http://www.qiushibaike.com/hot/page/2/'#直接选择一页的笑话list随机选择一个比较好~
-user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
-headers = { 'User-Agent' : user_agent }
-request = requests.get(url,headers = headers)
-content = request.content.decode('utf-8')
-html=etree.HTML(content)
-result=html.xpath('//*[@id="content-left"]/div/div[2]')
-random_number=random.randint(1,10)
-choice_joke=result[random_number]
-print(choice_joke.text)
+# import requests,random
+# from lxml import etree
+# url = 'http://www.qiushibaike.com/hot/page/2/'#直接选择一页的笑话list随机选择一个比较好~
+# user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
+# headers = { 'User-Agent' : user_agent }
+# request = requests.get(url,headers = headers)
+# content = request.content.decode('utf-8')
+# html=etree.HTML(content)
+# result=html.xpath('//*[@id="content-left"]/div/div[2]')
+#
+# random_number=random.randint(1,10)
+# choice_joke=result[random_number]
+# row_joke_data=str(choice_joke.text)
+# print(row_joke_data)
 
+# import requests,random
+# from lxml import etree
+# url = 'http://www.qiushibaike.com/hot/page/2/'#直接选择一页的笑话list随机选择一个比较好~
+# user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
+# headers = { 'User-Agent' : user_agent }
+# request = requests.get(url,headers = headers)
+# content = request.content.decode('utf-8')
+# html=etree.HTML(content)
+# result=html.xpath('//*[@class="content"]/text()')
+# random_number=random.randint(1,10)
+# choice_joke=result[random_number]
+# for i in result:
+#      print(i)
 
-
+with open('setting.ini','r',errors='ignore') as f:
+    data=f.readlines()
+print([data[2].replace('\n',''),data[3].replace('\n',''),data[5].replace('\n',''),data[7].replace('\n',''),data[8].replace('\n','')])
